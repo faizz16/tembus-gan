@@ -1,0 +1,26 @@
+{
+  "name": "@faizz16/tembus-gan",
+  "version": "1.0.0",
+  "description": "Hi Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizz16/tembus-gan.git"
+  },
+  "keywords": [
+    "tea",
+    "mantap"
+  ],
+  "author": "faiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizz16/tembus-gan/issues"
+  },
+  "homepage": "https://github.com/faizz16/tembus-gan#readme",
+  "dependencies": {
+    "tembus-gan": "^1.0.0"
+  }
+}
